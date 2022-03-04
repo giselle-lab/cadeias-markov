@@ -8,11 +8,27 @@ public class Jogo extends Jogador {
 
     public Jogo(Jogador j1, Jogador j2){
         super();
-        this.setAtual = 0;
-        this.partidaAtual = 0;
-        this.pontoAtual = 0;
+        //this.setAtual = 0;
+        //this.partidaAtual = 0;
+        //this.pontoAtual = 0;
         adicionaJogador(j1);
         adicionaJogador(j2);
+    }
+
+    public int getSet() {
+		return setAtual;
+	}
+
+	public int getPartidas() {
+		return partidaAtual;
+	}
+
+	public int getPontos() {
+		return pontoAtual;
+	}
+
+    public ArrayList<Jogador> getJogadores(){
+        return jogadores;
     }
 
     public void adicionaJogador(Jogador j) {

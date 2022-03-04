@@ -1,6 +1,6 @@
 public class Jogador {
 	private String nome;
-	private float probabilidade;
+	private double probabilidade;
 	private int partidas; // numero de partidas ganhas
 	private int set; // numero de sets ganhos
 	private int pontos; // pontos feitos
@@ -8,12 +8,12 @@ public class Jogador {
 	public Jogador(){
 
 	}
-	
-	public Jogador(String nome, float probabilidade) {
+
+	public Jogador(String nome, double probabilidade) {
 		this.nome = nome;
 		this.probabilidade = probabilidade;
 		this.partidas = 0;
-		this.set = 0;
+		//this.set = 0;
 		this.pontos = 0;
 	}
 
@@ -21,9 +21,22 @@ public class Jogador {
 		return nome;
 	}
 
-	public float getProbabilidade() {
+	public double getProbabilidade() {
 		return probabilidade;
 	}
+
+	public int getSetJogador() {
+		return set;
+	}
+
+	public int getPartidasJogador() {
+		return partidas;
+	}
+
+	public int getPontosJogador() {
+		return pontos;
+	}
+
 
 	public void alteraPartidasJogador() {
 		this.partidas++;
