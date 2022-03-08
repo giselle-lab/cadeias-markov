@@ -3,14 +3,33 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-      Jogador j1 = new Jogador("j1",0.8);
-      Jogador j2 = new Jogador("j2",0.6);
-      Jogo jogo = new Jogo(j1,j2);
+      //Partida 1: o Jogador A é muito melhor do que o Jogador B (0,70 ≤ p ≤ 0,80)
 
-      System.out.println(j1.getSetJogador());
-      System.out.println(j2.getNome());
+      Jogador jA = new Jogador("ja",0.8);
+      Jogador jB = new Jogador("jb",0.6);
+      Jogo jogo = new Jogo(jA,jB);
+
+      //criar o grafo
+      int i; //numero de iterações
+      
+        double r = Math.random();
+        if(r <= jA.getProbabilidade()){
+          no = 
+        }if(r <= jB.getProbabilidade()){
+          
+        }
+      System.out.println(i);
+
+
+      //Partida 2: os jogadores possuem nível técnico equivalente (0,45 ≤ p ≤ 0,55)
+
+      
+
+
+
       //variaveis aleatorias ao longo do tempo
       //matriz de transição
       //repetir ate que um jogador ganhe
+
     }
   }
