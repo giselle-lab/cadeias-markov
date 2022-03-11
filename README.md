@@ -12,4 +12,4 @@ Para executar: $make run
 
 Para limpar: $make clean
 
-Para testar basta rodar o programa, e os arquivos de log/dataset serão criados em uma pasta test.
+Para testar basta executar o programa, e os arquivos de log/dataset serão criados em uma pasta test. Cada arquivo tem um nome padrão Partida"#número da partida"_Simu_"#número da simulação".txt e também nessa pasta temos o arquivo txt de estatísticas gerais que contém a quatidade de partidas vencidas por cada jogador, o placar de cada partida, assim como o placar de cada set de cada partida.
