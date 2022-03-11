@@ -14,6 +14,21 @@ public class Set {
         this.gamesB = 0;
     }
 
+    public int getGamesA(){
+        return this.gamesA;
+    }
+
+    public int getGamesB(){
+        return this.gamesB;
+    }
+
+    public void setGames(int a, int b, boolean x){
+        if(x){
+            this.gamesA = a;
+            this.gamesB = b;
+        }
+    }
+
     public void simula() {
         while(true) {
             Game game = new Game(this.ja,this.jb);
@@ -22,43 +37,45 @@ public class Set {
             this.vencedor = game.getVencedor();
             if(this.vencedor == this.ja) {
                 this.gamesA++;
-                System.out.println("Jogador A pontua: "+ gamesA + "game(s)");
-
-            }
-
-            else {
+                System.out.println("Jogador A ganhou: "+ gamesA + " game(s)");
+            } else {
                 this.gamesB++;
-                System.out.println("Jogador B pontua: "+ gamesA + "game(s)");
-
+                System.out.println("Jogador B ganhou: "+ gamesB + " game(s)");
             }
-            if(this.gamesA > this.gamesB + 2 && this.gamesA >= 6) {
+            
+            if(this.gamesA >= this.gamesB + 2 && this.gamesA >= 6) {
                 // A venceu
                 this.vencedor = this.ja;
                 System.out.println("Jogador A Venceu Set!");
-                System.out.println("Games: "+ this.gamesA + " x " + this.gamesB);
+                System.out.println("Pontuação Games: "+ this.gamesA + " x " + this.gamesB);
                 break;
             }
-            else if (this.gamesB > this.gamesA + 2 && this.gamesB >= 6) {
+            else if (this.gamesB >= this.gamesA + 2 && this.gamesB >= 6) {
                 // B venceu
                 this.vencedor = this.jb;
                 System.out.println("Jogador B Venceu Set!");
-                System.out.println("Games: "+ this.gamesA + " x " + this.gamesB);
+                System.out.println("Pontuação Games: "+ this.gamesA + " x " + this.gamesB);
                 break;
             }
             //tie break: Ganha quem ganhar o game 7
             else if(this.gamesA == 6 && this.gamesB == 6){
-                if(this.gamesA == this.gamesB + 1){
-                    //A venceu
-                    this.vencedor = this.ja;
-                    System.out.println("Jogador A Venceu Tie Break!");
-                    System.out.println("Games: "+ this.gamesA + " x " + this.gamesB);
+                TieBreak tiebreak = new TieBreak(this.ja,this.jb);
+                //games.add(tiebreak);
+                tiebreak.simula();
+                this.vencedor = tiebreak.getVencedor();
+                if (this.vencedor == this.ja) {
+                    this.gamesA++;
+                    System.out.println();
+                    System.out.println("Jogador A Venceu o Tie Break!");
+                    System.out.println("Jogador A ganhou: "+ gamesA + " game(s)");
+                    System.out.println();
                     break;
-                } 
-                else{
-                    //B venceu
-                    this.vencedor = this.jb;
-                    System.out.println("Jogador B Venceu Tie Break!");
-                    System.out.println("Games: "+ this.gamesA + " x " + this.gamesB);
+                } else {
+                    this.gamesB++;
+                    System.out.println();
+                    System.out.println("Jogador B Venceu o Tie Break!");
+                    System.out.println("Jogador B ganhou: "+ gamesB + " game(s)");
+                    System.out.println();
                     break;
                 }
             }

@@ -9,11 +9,11 @@ public class Jogador {
 	}
 
 	public String getNome() {
-		return nome;
+		return this.nome;
 	}
 
 	public double getProbabilidade() {
-		return probabilidade;
+		return this.probabilidade;
 	}
 
 }
