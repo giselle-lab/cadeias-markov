@@ -67,7 +67,6 @@ public class Partida {
                     System.out.println("Set: " + this.setsJa + " x " + this.setsJb);
                     System.out.println();
                 }
-                //System.out.println("Jogador " + this.vencedor.getNome() + " Venceu a Partida!");
                 System.out.println("Partida: " + this.setsJa + " x " + this.setsJb);
                 break;
             }
