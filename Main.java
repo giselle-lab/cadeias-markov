@@ -56,7 +56,7 @@ public class Main {
 
         int j = 1;
         for (; j <= 30; j++) {
-            FileWriter myFile2 = new FileWriter(filePath2+fileName2+i+"."+fileType2);
+            FileWriter myFile2 = new FileWriter(filePath2+fileName2+j+"."+fileType2);
             myFile2.write("PARTIDA 2:\n");
             myFile2.write("Probabilidade do Jogador A fazer ponto:" + jA2.getProbabilidade() + "\n");
             myFile2.write("Probabilidade do Jogador B fazer ponto:" + jB2.getProbabilidade() + "\n");
