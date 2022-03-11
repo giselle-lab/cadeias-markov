@@ -59,10 +59,9 @@ public class Set {
             }
             //tie break: Ganha quem ganhar o game 7
             else if(this.gamesA == 6 && this.gamesB == 6){
-                TieBreak tiebreak = new TieBreak(this.ja,this.jb);
-                //games.add(tiebreak);
-                tiebreak.simula();
-                this.vencedor = tiebreak.getVencedor();
+                game.resetPontos();
+                game.simulaTieBreak();
+                this.vencedor = game.getVencedor();
                 if (this.vencedor == this.ja) {
                     this.gamesA++;
                     System.out.println();
