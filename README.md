@@ -1,6 +1,6 @@
-# cadeias-markov
+# Jogo de Tênis
 
-O programa simula partidas de tênis representando o jogo por meio de Cadeias de Markov. 
+O programa simula partidas de tênis representando o jogo por meio de _Cadeias de Markov_. 
 
   -A primeira partida é simulada 30 vezes e nessa partida a probabilidade do jogador A vencer um ponto é p, sendo que p é um número aleatório entre 0,7 e 0,8. E a probabilidade do   jogador B vencer um ponto é q = 1 - p.
   
