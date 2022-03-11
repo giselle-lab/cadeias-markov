@@ -1,7 +1,9 @@
+import java.io.FileWriter;
+import java.io.IOException;
 
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         // gera uma probabilidade com 0.7 <= p <= 0.8 do jogador A ganhar
         double min = 0.7;
         double max = 0.8;
@@ -14,15 +16,21 @@ public class Main {
         Partida partida1 = new Partida(jA, jB);
 
         /// PARTIDA 1
-        System.out.println("PARTIDA 1");
-        System.out.println("Probabilidade do Jogador A fazer ponto:" + jA.getProbabilidade());
-        System.out.println("Probabilidade do Jogador B fazer ponto:" + jB.getProbabilidade());
+        String filePath = "../cadeias-markov/Test/";
+        String fileName= "Partida1_Simu_";
+        String fileType = "txt";
+
 
         int i = 1;
         for (; i <= 30; i++) {
-            System.out.println("Simulação " + i + ":");
-            System.out.println();
-            partida1.simula();
+            FileWriter myFile = new FileWriter(filePath+fileName+i+"."+fileType);
+            myFile.write("PARTIDA 1\n");
+            myFile.write("Probabilidade do Jogador A fazer ponto:" + jA.getProbabilidade() + "\n");
+            myFile.write("Probabilidade do Jogador B fazer ponto:" + jB.getProbabilidade() + "\n");            
+            myFile.write("Simulação " + i + ":\n");
+            myFile.write("\n");
+            partida1.simula(myFile);
+            myFile.close();
             //reseta sets
             partida1.setSets(0, 0);
         }
@@ -40,15 +48,22 @@ public class Main {
         Jogador jB2 = new Jogador("B2", q2);
         Partida partida2 = new Partida(jA2, jB2);
 
-        System.out.println("PARTIDA 2:");
-        System.out.println("Probabilidade do Jogador A fazer ponto:" + jA2.getProbabilidade());
-        System.out.println("Probabilidade do Jogador B fazer ponto:" + jB2.getProbabilidade());
+        
+
+        String filePath2 = "../cadeias-markov/Test/";
+        String fileName2= "Partida2_Simu_";
+        String fileType2 = "txt";
 
         int j = 1;
         for (; j <= 30; j++) {
-            System.out.println("Simulação " + j + ":");
-            System.out.println();
-            partida2.simula();
+            FileWriter myFile2 = new FileWriter(filePath2+fileName2+i+"."+fileType2);
+            myFile2.write("PARTIDA 2:\n");
+            myFile2.write("Probabilidade do Jogador A fazer ponto:" + jA2.getProbabilidade() + "\n");
+            myFile2.write("Probabilidade do Jogador B fazer ponto:" + jB2.getProbabilidade() + "\n");
+            myFile2.write("Simulação " + j + ":\n");
+            myFile2.write("\n");
+            partida2.simula(myFile2);
+            myFile2.close();
             // reseta sets
             partida2.setSets(0, 0);
         }

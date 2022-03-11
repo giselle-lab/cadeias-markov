@@ -1,0 +1,209 @@
+PARTIDA 1
+Probabilidade do Jogador A fazer ponto:0.72
+Probabilidade do Jogador B fazer ponto:0.28
+Simulação 28:
+
+Jogador A Pontuou! 
+Pontuação: 1 x 0
+Jogador A Pontuou! 
+Pontuação: 2 x 0
+Jogador A Pontuou! 
+Pontuação: 3 x 0
+Jogador A Pontuou! 
+Pontuação: 4 x 0
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 0
+
+Jogador A ganhou: 1 game(s)
+
+Jogador A Pontuou! 
+Pontuação: 1 x 0
+Jogador A Pontuou! 
+Pontuação: 2 x 0
+Jogador A Pontuou! 
+Pontuação: 3 x 0
+Jogador A Pontuou! 
+Pontuação: 4 x 0
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 0
+
+Jogador A ganhou: 2 game(s)
+
+Jogador A Pontuou! 
+Pontuação: 1 x 0
+Jogador B Pontuou! 
+Pontuação: 1 x 1
+Jogador A Pontuou! 
+Pontuação: 2 x 1
+Jogador A Pontuou! 
+Pontuação: 3 x 1
+Jogador A Pontuou! 
+Pontuação: 4 x 1
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 1
+
+Jogador A ganhou: 3 game(s)
+
+Jogador A Pontuou! 
+Pontuação: 1 x 0
+Jogador A Pontuou! 
+Pontuação: 2 x 0
+Jogador A Pontuou! 
+Pontuação: 3 x 0
+Jogador B Pontuou! 
+Pontuação: 3 x 1
+Jogador A Pontuou! 
+Pontuação: 4 x 1
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 1
+
+Jogador A ganhou: 4 game(s)
+
+Jogador A Pontuou! 
+Pontuação: 1 x 0
+Jogador A Pontuou! 
+Pontuação: 2 x 0
+Jogador A Pontuou! 
+Pontuação: 3 x 0
+Jogador A Pontuou! 
+Pontuação: 4 x 0
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 0
+
+Jogador A ganhou: 5 game(s)
+
+Jogador B Pontuou! 
+Pontuação: 0 x 1
+Jogador A Pontuou! 
+Pontuação: 1 x 1
+Jogador A Pontuou! 
+Pontuação: 2 x 1
+Jogador A Pontuou! 
+Pontuação: 3 x 1
+Jogador B Pontuou! 
+Pontuação: 3 x 2
+Jogador B Pontuou! 
+Pontuação: 3 x 3
+Jogador A Pontuou! 
+Pontuação: 4 x 3
+Jogador A Pontuou! 
+Pontuação: 5 x 3
+
+Jogador A fez um Game!
+Pontuação do Game: 5 x 3
+
+Jogador A ganhou: 6 game(s)
+Jogador A Venceu Set!
+Pontuação Games: 6 x 0
+
+Jogador A Venceu o Set!
+Set: 1 x 0
+
+Jogador A Pontuou! 
+Pontuação: 1 x 0
+Jogador A Pontuou! 
+Pontuação: 2 x 0
+Jogador A Pontuou! 
+Pontuação: 3 x 0
+Jogador B Pontuou! 
+Pontuação: 3 x 1
+Jogador B Pontuou! 
+Pontuação: 3 x 2
+Jogador A Pontuou! 
+Pontuação: 4 x 2
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 2
+
+Jogador A ganhou: 1 game(s)
+
+Jogador A Pontuou! 
+Pontuação: 1 x 0
+Jogador A Pontuou! 
+Pontuação: 2 x 0
+Jogador A Pontuou! 
+Pontuação: 3 x 0
+Jogador A Pontuou! 
+Pontuação: 4 x 0
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 0
+
+Jogador A ganhou: 2 game(s)
+
+Jogador B Pontuou! 
+Pontuação: 0 x 1
+Jogador A Pontuou! 
+Pontuação: 1 x 1
+Jogador A Pontuou! 
+Pontuação: 2 x 1
+Jogador A Pontuou! 
+Pontuação: 3 x 1
+Jogador A Pontuou! 
+Pontuação: 4 x 1
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 1
+
+Jogador A ganhou: 3 game(s)
+
+Jogador A Pontuou! 
+Pontuação: 1 x 0
+Jogador A Pontuou! 
+Pontuação: 2 x 0
+Jogador A Pontuou! 
+Pontuação: 3 x 0
+Jogador A Pontuou! 
+Pontuação: 4 x 0
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 0
+
+Jogador A ganhou: 4 game(s)
+
+Jogador A Pontuou! 
+Pontuação: 1 x 0
+Jogador B Pontuou! 
+Pontuação: 1 x 1
+Jogador A Pontuou! 
+Pontuação: 2 x 1
+Jogador B Pontuou! 
+Pontuação: 2 x 2
+Jogador A Pontuou! 
+Pontuação: 3 x 2
+Jogador A Pontuou! 
+Pontuação: 4 x 2
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 2
+
+Jogador A ganhou: 5 game(s)
+
+Jogador A Pontuou! 
+Pontuação: 1 x 0
+Jogador A Pontuou! 
+Pontuação: 2 x 0
+Jogador A Pontuou! 
+Pontuação: 3 x 0
+Jogador A Pontuou! 
+Pontuação: 4 x 0
+
+Jogador A fez um Game!
+Pontuação do Game: 4 x 0
+
+Jogador A ganhou: 6 game(s)
+Jogador A Venceu Set!
+Pontuação Games: 6 x 0
+
+Jogador A Venceu o Set!
+Set: 2 x 0
+
+Jogador A Venceu a Partida!
+Partida: 2 x 0
+
+
