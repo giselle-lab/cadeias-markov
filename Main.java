@@ -17,7 +17,7 @@ public class Main {
 
         /// PARTIDA 1
         String filePath = "../cadeias-markov/Test/";
-        String fileName= "Partida1_Simu_";
+        String fileName= "Partida1_Simu";
         String fileType = "txt";
 
 
@@ -51,7 +51,7 @@ public class Main {
         
 
         String filePath2 = "../cadeias-markov/Test/";
-        String fileName2= "Partida2_Simu_";
+        String fileName2= "Partida2_Simu";
         String fileType2 = "txt";
 
         int j = 1;
