@@ -22,3 +22,13 @@ make clean
 ```
 ## Logs
 Para testar basta executar o programa, e os arquivos de log/dataset serão criados em uma pasta test. Cada arquivo tem um nome padrão Partida"_número da partida_"_Simu"_número da simulação_".txt e também nessa pasta temos o arquivo txt de estatísticas gerais que contém a quatidade de partidas vencidas por cada jogador, o placar de cada partida, assim como o placar de cada set de cada partida.
+
+Legenda
+
+Pontuação do Game: Significa quantos pontos cada jogador fez no Game.
+
+Placar de Games: Significa quantos Games cada jogador ganhou no Set.
+
+Placar de Sets: Significa quantos Sets cada jogador ganhou na Partida.
+
+Placar de Sets Final: Significa o placar final da Partida, mostrando qual jogador ganhou quantos Sets.
