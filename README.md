@@ -27,7 +27,7 @@ Para limpar:
 make clean
 ```
 ## Logs
-Para testar basta executar o programa, e os arquivos de log/dataset serão criados em uma pasta GeradosAgora. Cada arquivo tem um nome padrão Partida"_número da partida_"_Simu"_número da simulação_".txt e também nessa pasta temos o arquivo txt de estatísticas gerais que contém a quatidade de partidas vencidas por cada jogador, o placar de cada partida, assim como o placar de cada set de cada partida. Os logs/datasets usados para fazer as anaálises se econtram na pasta Test. 
+Para testar basta executar o programa, e os arquivos de log/dataset serão criados em uma pasta Test. Cada arquivo tem um nome padrão Partida"_número da partida_"_Simu"_número da simulação_".txt e também nessa pasta temos o arquivo txt de estatísticas gerais que contém a quatidade de partidas vencidas por cada jogador, o placar de cada partida, o placar de cada set de cada partida, além de conter o total de pontos feitos por cada jogadpr em cada set e o total de pontos feitos por cada jogador na partida inteira e por fim o total de pontos conjuntos da partida. Os logs/datasets usados para fazer as anaálises se econtram na pasta Test. 
 
 Legenda:
 
