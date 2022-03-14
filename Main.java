@@ -12,7 +12,7 @@ public class Main {
         Jogador jB = new Jogador("B", q);
         Partida partida1 = new Partida(jA, jB);
 
-        String filePath = "../cadeias-markov/Test/";
+        String filePath = "../cadeias-markov/Test/GeradosAgora";
         String fileName= "Partida1_Simu";
         String fileType = "txt";
 
@@ -57,7 +57,7 @@ public class Main {
         Jogador jB2 = new Jogador("B", q2);
         Partida partida2 = new Partida(jA2, jB2);
 
-        String filePath2 = "../cadeias-markov/Test/";
+        String filePath2 = "../cadeias-markov/Test/GeradosAgora"";
         String fileName2= "Partida2_Simu";
         String fileType2 = "txt";
 
