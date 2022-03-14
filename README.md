@@ -32,3 +32,8 @@ Placar de Games: Significa quantos Games cada jogador ganhou no Set.
 Placar de Sets: Significa quantos Sets cada jogador ganhou na Partida.
 
 Placar de Sets Final: Significa o placar final da Partida, mostrando qual jogador ganhou quantos Sets.
+
+## Apresentaço e Análise
+O vídeo de apresentação se encontra disónível neste link.
+
+O relatório de análise se encontra disponível neste link. 
