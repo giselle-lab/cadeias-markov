@@ -1,0 +1,638 @@
+PARTIDA 1
+
+Probabilidade do Jogador A fazer ponto:0.76
+Probabilidade do Jogador B fazer ponto:0.24
+
+Simulação 1:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 26 pontos nesse set
+O jogador B fez 12 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 26 pontos nesse set
+O jogador B fez 10 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 14 games
+O jogador A fez um total de 52 pontos
+O jogador B fez um total de 22 pontos
+Ocorreram um total de 74 pontos
+O jogador A venceu a partida!
+
+Simulação 2:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 7 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 7 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 49 pontos
+O jogador B fez um total de 14 pontos
+Ocorreram um total de 63 pontos
+O jogador A venceu a partida!
+
+Simulação 3:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 26 pontos nesse set
+O jogador B fez 7 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 4 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 50 pontos
+O jogador B fez um total de 11 pontos
+Ocorreram um total de 61 pontos
+O jogador A venceu a partida!
+
+Simulação 4:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 7 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 7 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 49 pontos
+O jogador B fez um total de 14 pontos
+Ocorreram um total de 63 pontos
+O jogador A venceu a partida!
+
+Simulação 5:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 26 pontos nesse set
+O jogador B fez 11 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 29 pontos nesse set
+O jogador B fez 15 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 14 games
+O jogador A fez um total de 55 pontos
+O jogador B fez um total de 26 pontos
+Ocorreram um total de 81 pontos
+O jogador A venceu a partida!
+
+Simulação 6:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 3 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:2
+O jogador A fez 29 pontos nesse set
+O jogador B fez 17 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 14 games
+O jogador A fez um total de 53 pontos
+O jogador B fez um total de 20 pontos
+Ocorreram um total de 73 pontos
+O jogador A venceu a partida!
+
+Simulação 7:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 28 pontos nesse set
+O jogador B fez 10 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 7 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 52 pontos
+O jogador B fez um total de 17 pontos
+Ocorreram um total de 69 pontos
+O jogador A venceu a partida!
+
+Simulação 8:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 26 pontos nesse set
+O jogador B fez 12 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 5 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 51 pontos
+O jogador B fez um total de 17 pontos
+Ocorreram um total de 68 pontos
+O jogador A venceu a partida!
+
+Simulação 9:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 5 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 2 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 48 pontos
+O jogador B fez um total de 7 pontos
+Ocorreram um total de 55 pontos
+O jogador A venceu a partida!
+
+Simulação 10:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 4 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 4 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 49 pontos
+O jogador B fez um total de 8 pontos
+Ocorreram um total de 57 pontos
+O jogador A venceu a partida!
+
+Simulação 11:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 31 pontos nesse set
+O jogador B fez 16 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 26 pontos nesse set
+O jogador B fez 11 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 13 games
+O jogador A fez um total de 57 pontos
+O jogador B fez um total de 27 pontos
+Ocorreram um total de 84 pontos
+O jogador A venceu a partida!
+
+Simulação 12:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 26 pontos nesse set
+O jogador B fez 9 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 9 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 13 games
+O jogador A fez um total de 51 pontos
+O jogador B fez um total de 18 pontos
+Ocorreram um total de 69 pontos
+O jogador A venceu a partida!
+
+Simulação 13:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 34 pontos nesse set
+O jogador B fez 20 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 9 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 13 games
+O jogador A fez um total de 59 pontos
+O jogador B fez um total de 29 pontos
+Ocorreram um total de 88 pontos
+O jogador A venceu a partida!
+
+Simulação 14:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 26 pontos nesse set
+O jogador B fez 8 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 8 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 51 pontos
+O jogador B fez um total de 16 pontos
+Ocorreram um total de 67 pontos
+O jogador A venceu a partida!
+
+Simulação 15:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 27 pontos nesse set
+O jogador B fez 13 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 27 pontos nesse set
+O jogador B fez 12 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 13 games
+O jogador A fez um total de 54 pontos
+O jogador B fez um total de 25 pontos
+Ocorreram um total de 79 pontos
+O jogador A venceu a partida!
+
+Simulação 16:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 5 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 28 pontos nesse set
+O jogador B fez 14 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 52 pontos
+O jogador B fez um total de 19 pontos
+Ocorreram um total de 71 pontos
+O jogador A venceu a partida!
+
+Simulação 17:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 31 pontos nesse set
+O jogador B fez 18 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 31 pontos nesse set
+O jogador B fez 16 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 14 games
+O jogador A fez um total de 62 pontos
+O jogador B fez um total de 34 pontos
+Ocorreram um total de 96 pontos
+O jogador A venceu a partida!
+
+Simulação 18:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 5 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 4 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 48 pontos
+O jogador B fez um total de 9 pontos
+Ocorreram um total de 57 pontos
+O jogador A venceu a partida!
+
+Simulação 19:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 29 pontos nesse set
+O jogador B fez 14 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 6 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 53 pontos
+O jogador B fez um total de 20 pontos
+Ocorreram um total de 73 pontos
+O jogador A venceu a partida!
+
+Simulação 20:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 6 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 26 pontos nesse set
+O jogador B fez 11 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 13 games
+O jogador A fez um total de 51 pontos
+O jogador B fez um total de 17 pontos
+Ocorreram um total de 68 pontos
+O jogador A venceu a partida!
+
+Simulação 21:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 9 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 26 pontos nesse set
+O jogador B fez 8 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 13 games
+O jogador A fez um total de 51 pontos
+O jogador B fez um total de 17 pontos
+Ocorreram um total de 68 pontos
+O jogador A venceu a partida!
+
+Simulação 22:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 7 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 26 pontos nesse set
+O jogador B fez 10 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 50 pontos
+O jogador B fez um total de 17 pontos
+Ocorreram um total de 67 pontos
+O jogador A venceu a partida!
+
+Simulação 23:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 5 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 28 pontos nesse set
+O jogador B fez 10 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 52 pontos
+O jogador B fez um total de 15 pontos
+Ocorreram um total de 67 pontos
+O jogador A venceu a partida!
+
+Simulação 24:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 6 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 9 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 49 pontos
+O jogador B fez um total de 15 pontos
+Ocorreram um total de 64 pontos
+O jogador A venceu a partida!
+
+Simulação 25:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 24 pontos nesse set
+O jogador B fez 13 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 27 pontos nesse set
+O jogador B fez 10 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 13 games
+O jogador A fez um total de 51 pontos
+O jogador B fez um total de 23 pontos
+Ocorreram um total de 74 pontos
+O jogador A venceu a partida!
+
+Simulação 26:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 7 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 27 pontos nesse set
+O jogador B fez 10 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 13 games
+O jogador A fez um total de 51 pontos
+O jogador B fez um total de 17 pontos
+Ocorreram um total de 68 pontos
+O jogador A venceu a partida!
+
+Simulação 27:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 6 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 26 pontos nesse set
+O jogador B fez 8 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 13 games
+O jogador A fez um total de 51 pontos
+O jogador B fez um total de 14 pontos
+Ocorreram um total de 65 pontos
+O jogador A venceu a partida!
+
+Simulação 28:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 24 pontos nesse set
+O jogador B fez 5 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:1
+O jogador A fez 26 pontos nesse set
+O jogador B fez 8 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 13 games
+O jogador A fez um total de 50 pontos
+O jogador B fez um total de 13 pontos
+Ocorreram um total de 63 pontos
+O jogador A venceu a partida!
+
+Simulação 29:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 27 pontos nesse set
+O jogador B fez 8 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 7 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 52 pontos
+O jogador B fez um total de 15 pontos
+Ocorreram um total de 67 pontos
+O jogador A venceu a partida!
+
+Simulação 30:
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 25 pontos nesse set
+O jogador B fez 8 pontos nesse set
+
+Total de games que A ganhou desse set:6
+Total de games que B ganhou desse set:0
+O jogador A fez 26 pontos nesse set
+O jogador B fez 9 pontos nesse set
+
+O jogador A venceu 2 sets nessa partida
+O jogador B venceu 0 sets nessa partida
+
+Ocorreram um total de 2 sets
+Ocorreram um total de 12 games
+O jogador A fez um total de 51 pontos
+O jogador B fez um total de 17 pontos
+Ocorreram um total de 68 pontos
+O jogador A venceu a partida!
+
+PARTIDAS TOTAIS:
+Jogador A ganhou 30/30 partidas
+Jogador B ganhou 0/30 partidas

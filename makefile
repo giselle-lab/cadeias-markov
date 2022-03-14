@@ -23,5 +23,3 @@ clean:
 	
 run:
 	java Main
-	
-

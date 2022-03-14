@@ -14,9 +14,11 @@ public class Ponto {
         this.generatedNumber = rand.nextFloat();
         if(this.generatedNumber < ja.getProbabilidade()) {
             this.vencedor = ja;
+            ja.alteraPontosJogador();
         }
         else {
             this.vencedor = jb;
+            jb.alteraPontosJogador();
         }
     }
 
