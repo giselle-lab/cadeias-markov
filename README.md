@@ -2,9 +2,9 @@
 
 O programa simula partidas de tênis representando o jogo por meio de _Cadeias de Markov_. 
 
-  -A primeira partida é simulada 30 vezes e nessa partida a probabilidade do jogador A vencer um ponto é p, sendo que p é um número aleatório entre 0,7 e 0,8. E a probabilidade do   jogador B vencer um ponto é q = 1 - p.
+  -A primeira partida é simulada 30 vezes e nessa partida a probabilidade do jogador A vencer um ponto é p = 0,76. E a probabilidade do jogador B vencer um ponto é q = 1 - p = 0,24.
   
-  -A segunda partida também é simulada 30 vezes e nessa partida a probabilidade do jogador A vencer um ponto é p, sendo que p é um número aleatório entre 0,45 e 0,55. E a probabilidade do jogador B vencer um ponto é q = 1 - p.
+  -A segunda partida também é simulada 30 vezes e nessa partida a probabilidade do jogador A vencer um ponto é p = 0,53. E a probabilidade do jogador B vencer um ponto é q = 1 - p = 0,47.
 
 ## Instalação
 Para executar o programa é necessário que o Java esteja intalado.Instale o java para [Windows](https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR) ou para [Linux](https://www.java.com/pt-BR/download/). Siga as intruções dadas nos link de instalação e já poderá seguir para execução do programa.
