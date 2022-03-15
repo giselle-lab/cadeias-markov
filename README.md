@@ -40,6 +40,6 @@ Placar de Sets: Significa quantos Sets cada jogador ganhou na Partida.
 Placar de Sets Final: Significa o placar final da Partida, mostrando qual jogador ganhou quantos Sets.
 
 ## Apresentação e Análise
-O vídeo de apresentação se encontra disónível em dois links [parte 1]() e [parte 2](https://www.loom.com/share/893912bcda5c4c208ba3277ccd27fd6d).
+O vídeo de apresentação se encontra disónível em dois links [parte 1](https://drive.google.com/file/d/1xutQYID5gJNGXzotmlhUG2csjuRne8y1/view?usp=sharing) e [parte 2](https://www.loom.com/share/893912bcda5c4c208ba3277ccd27fd6d).
 
 O relatório de análise se encontra neste repositório.
