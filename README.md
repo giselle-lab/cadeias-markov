@@ -41,5 +41,3 @@ Placar de Sets Final: Significa o placar final da Partida, mostrando qual jogado
 
 ## Apresentação e Análise
 O vídeo de apresentação se encontra disónível [neste link]().
-
-O relatório de análise se encontra disponível [neste link](https://docs.google.com/document/d/18jU4jgHwZAC3uNRPuKMFLMhoqvtz9O-rvna3OdfHtH8/edit?usp=sharing). 
